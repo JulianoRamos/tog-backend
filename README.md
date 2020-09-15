@@ -2,6 +2,7 @@
 
 - Ter [**Git**](https://git-scm.com/) para clonar o projeto.
 - Ter [**Node.js**](https://nodejs.org/en/) instalado.
+- Ter [**YarnPkg**](https://yarnpkg.com/) instalado.
 - Ter [**Docker**](https://www.docker.com/) rodando um container PostgreSQL.
 
 ## Iniciando back-end
